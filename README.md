@@ -1,7 +1,8 @@
 # Künstlerfinanzen — open data on the Künstlersozialkasse (KSK)
 
 Two small, sourced datasets for freelancers insured with the German Künstlersozialkasse,
-published by [Künstlerfinanzen](https://kuenstlerfinanzen.de/) under **CC BY 4.0**. Every row
+published by [Künstlerfinanzen](https://kuenstlerfinanzen.de/) under **CC BY 4.0**.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23420846.svg)](https://doi.org/10.5281/zenodo.23420846) Every row
 carries its primary source and the date it was last checked. The live copies are served at
 <https://kuenstlerfinanzen.de/entwickler.html>; this repository is the citable snapshot.
 
@@ -46,8 +47,8 @@ health insurer's Zusatzbeitrag (half borne by the member) is **not** included.
 ## How to cite
 
 Künstlerfinanzen (2026). *KSK-Beitragssätze und KSK-Fristen — offene Daten zur
-Künstlersozialkasse.* <https://github.com/tony158/kuenstlerfinanzen-open-data>. CC BY 4.0.
-See `CITATION.cff`.
+Künstlersozialkasse.* <https://github.com/tony158/kuenstlerfinanzen-open-data>. DOI: [10.5281/zenodo.23420846](https://doi.org/10.5281/zenodo.23420846)
+(concept DOI for all versions: 10.5281/zenodo.23420845). CC BY 4.0. See `CITATION.cff`.
 
 ## Licence
 

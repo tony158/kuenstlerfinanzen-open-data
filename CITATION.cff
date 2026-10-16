@@ -5,9 +5,17 @@ type: dataset
 authors:
   - name: "Künstlerfinanzen"
     website: "https://kuenstlerfinanzen.de/"
+doi: 10.5281/zenodo.23420846
 license: CC-BY-4.0
 repository-code: "https://github.com/tony158/kuenstlerfinanzen-open-data"
 url: "https://kuenstlerfinanzen.de/entwickler.html"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23420846
+    description: "Zenodo record of this version"
+  - type: doi
+    value: 10.5281/zenodo.23420845
+    description: "Zenodo concept DOI (all versions)"
 date-released: 2026-10-16
 version: "2026-10-16"
 keywords:
