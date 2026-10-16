@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Künstlerfinanzen//Fristen//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK-Fristen (Künstlerfinanzen)
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:ksk-fristen-vg-wort@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:VG Wort: Meldeschluss Presse\, Hörfunk\, Fernsehen\, Sprachtonträ
+ ger\, Wissenschaft
+DESCRIPTION:Die VG Wort nennt den 31. Januar als Meldeschluss für Presse\,
+  Hörfunk\, Fernsehen\, Sprachtonträger und Wissenschaft.\nhttps://vgwort
+ .de/service/informationen/termine-und-fristen
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VG Wort: Meldeschluss Presse\, Hörfunk\, Fernsehen\, Sprachton
+ träger\, Wissenschaft
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-ksk-beitrag@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:KSK: erster Beitrag nach der neuen Einkommensschätzung fällig
+DESCRIPTION:Im Januar kommt die Beitragsmitteilung der Künstlersozialkasse
+  mit dem neuen Beitrag. Er ist erstmals am 5. Februar fällig.\nhttps://ww
+ w.kuenstlersozialkasse.de/jahresmeldung-versicherte
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:KSK: erster Beitrag nach der neuen Einkommensschätzung fällig
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-vorauszahlung-maerz@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Einkommensteuer-Vorauszahlung (10. März)
+DESCRIPTION:Einkommensteuer-Vorauszahlung nach §37 Abs. 1 Satz 1 EStG (10.
+  März\, 10. Juni\, 10. September\, 10. Dezember). Die Höhe steht im Vora
+ uszahlungsbescheid des Finanzamts.\nhttps://www.gesetze-im-internet.de/est
+ g/__37.html
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Einkommensteuer-Vorauszahlung (10. März)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-vg-wort-metis@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:VG Wort: Meldeschluss METIS (Texte im Internet\, E-Books)
+DESCRIPTION:Für alle METIS-Meldeverfahren nennt die VG Wort den 31. März\
+ , erstmals 2027.\nhttps://vgwort.de/fuer-urheber-und-verlage/urheber/onlin
+ e-e-books/online-e-books
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VG Wort: Meldeschluss METIS (Texte im Internet\, E-Books)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-vg-bild-kunst@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:VG Bild-Kunst: Meldeschluss für das vorangegangene Kalenderjahr
+DESCRIPTION:Ab 2026 legt die VG Bild-Kunst ihren Meldeschluss auf den 31. M
+ ärz (bisher 30. Juni). Gemeldet wird für das vorangegangene Kalenderjahr
+ \; die VG Bild-Kunst nennt den Termin eine Ausschlussfrist.\nhttps://www.b
+ ildkunst.de/meldung/neuer_meldeschluss/
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VG Bild-Kunst: Meldeschluss für das vorangegangene Kalenderjah
+ r
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-vorauszahlung-juni@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Einkommensteuer-Vorauszahlung (10. Juni)
+DESCRIPTION:Einkommensteuer-Vorauszahlung nach §37 Abs. 1 Satz 1 EStG (10.
+  März\, 10. Juni\, 10. September\, 10. Dezember). Die Höhe steht im Vora
+ uszahlungsbescheid des Finanzamts.\nhttps://www.gesetze-im-internet.de/est
+ g/__37.html
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Einkommensteuer-Vorauszahlung (10. Juni)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-ksk-meldebogen@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:KSK: Meldebogen und Authentifizierungscode kommen im September
+DESCRIPTION:Die Künstlersozialkasse verschickt Meldebogen und Authentifizi
+ erungscode im September mit der Post\, für das folgende Jahr. Das Datum d
+ es Eintrags ist nur der Monatsanfang.\nhttps://www.kuenstlersozialkasse.de
+ /jahresmeldung-versicherte
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-vorauszahlung-september@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Einkommensteuer-Vorauszahlung (10. September)
+DESCRIPTION:Einkommensteuer-Vorauszahlung nach §37 Abs. 1 Satz 1 EStG (10.
+  März\, 10. Juni\, 10. September\, 10. Dezember). Die Höhe steht im Vora
+ uszahlungsbescheid des Finanzamts.\nhttps://www.gesetze-im-internet.de/est
+ g/__37.html
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Einkommensteuer-Vorauszahlung (10. September)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:frist-1-dezember@kuenstlerfinanzen.de
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:KSK: Einkommensschätzung für das kommende Jahr melden
+DESCRIPTION:Frist nach §12 Abs. 1 Satz 1 KSVG. Gemeldet wird auch\, wenn s
+ ich nichts geändert hat.\nhttps://kuenstlerfinanzen.de/wissen/fristen/
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:KSK: Einkommensschätzung für das kommende Jahr melden
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-pruefung-antwort@kuenstlerfinanzen.de
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:KSK: Antwort auf das Prüfungsschreiben (falls Sie in der Stichprob
+ e sind)
+DESCRIPTION:Antwort auf das Prüfungsschreiben der Künstlersozialkasse (St
+ ichprobe nach §13 KSVG): innerhalb von vier Wochen nach Zugang\, spätest
+ ens bis zum 1. Dezember. Nur relevant\, wenn Sie ein solches Schreiben erh
+ alten haben.\nhttps://www.verwaltung.bund.de/leistungsverzeichnis/de/leist
+ ung/99107077029003
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:KSK: Antwort auf das Prüfungsschreiben (falls Sie in der Stich
+ probe sind)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ksk-fristen-vorauszahlung-dezember@kuenstlerfinanzen.de
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Einkommensteuer-Vorauszahlung (10. Dezember)
+DESCRIPTION:Einkommensteuer-Vorauszahlung nach §37 Abs. 1 Satz 1 EStG (10.
+  März\, 10. Juni\, 10. September\, 10. Dezember). Die Höhe steht im Vora
+ uszahlungsbescheid des Finanzamts.\nhttps://www.gesetze-im-internet.de/est
+ g/__37.html
+URL:https://kuenstlerfinanzen.de/wissen/fristen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Einkommensteuer-Vorauszahlung (10. Dezember)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

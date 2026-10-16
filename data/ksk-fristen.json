@@ -1,0 +1,102 @@
+[
+  {
+    "termin": "01-31",
+    "monat": "01",
+    "titel": "VG Wort: Meldeschluss für Presse, Hörfunk, Fernsehen, Sprachtonträger und Wissenschaft",
+    "wer": "VG Wort",
+    "grundlage": "Termine und Fristen der VG Wort",
+    "quelle": "https://vgwort.de/service/informationen/termine-und-fristen",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "02-05",
+    "monat": "02",
+    "titel": "KSK: erster Beitrag nach der neuen Einkommensschätzung fällig",
+    "wer": "Künstlersozialkasse",
+    "grundlage": "§16 Abs. 1 KSVG; KSK: Jahresmeldung für Versicherte",
+    "quelle": "https://www.kuenstlersozialkasse.de/jahresmeldung-versicherte",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "03-10",
+    "monat": "03",
+    "titel": "Einkommensteuer-Vorauszahlung (10. März), in der Höhe des Vorauszahlungsbescheids",
+    "wer": "Finanzamt, §37 Abs. 1 EStG",
+    "grundlage": "§37 Abs. 1 Satz 1 EStG",
+    "quelle": "https://www.gesetze-im-internet.de/estg/__37.html",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "03-31",
+    "monat": "03",
+    "titel": "VG Wort: Meldeschluss für alle METIS-Meldeverfahren (Texte im Internet, E-Books), erstmals 2027",
+    "wer": "VG Wort",
+    "grundlage": "VG Wort: Online-Texte und E-Books (METIS)",
+    "quelle": "https://vgwort.de/fuer-urheber-und-verlage/urheber/online-e-books/online-e-books",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "03-31",
+    "monat": "03",
+    "titel": "VG Bild-Kunst: Meldeschluss für das vorangegangene Kalenderjahr (Ausschlussfrist), ab 2026",
+    "wer": "VG Bild-Kunst",
+    "grundlage": "VG Bild-Kunst: Neuer Meldeschluss",
+    "quelle": "https://www.bildkunst.de/meldung/neuer_meldeschluss/",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "06-10",
+    "monat": "06",
+    "titel": "Einkommensteuer-Vorauszahlung (10. Juni), in der Höhe des Vorauszahlungsbescheids",
+    "wer": "Finanzamt, §37 Abs. 1 EStG",
+    "grundlage": "§37 Abs. 1 Satz 1 EStG",
+    "quelle": "https://www.gesetze-im-internet.de/estg/__37.html",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "09-01",
+    "nurMonat": true,
+    "monat": "09",
+    "titel": "KSK: Meldebogen und Authentifizierungscode kommen im September mit der Post (das Datum ist nur der Monatsanfang)",
+    "wer": "Künstlersozialkasse",
+    "grundlage": "KSK: Jahresmeldung für Versicherte",
+    "quelle": "https://www.kuenstlersozialkasse.de/jahresmeldung-versicherte",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "09-10",
+    "monat": "09",
+    "titel": "Einkommensteuer-Vorauszahlung (10. September), in der Höhe des Vorauszahlungsbescheids",
+    "wer": "Finanzamt, §37 Abs. 1 EStG",
+    "grundlage": "§37 Abs. 1 Satz 1 EStG",
+    "quelle": "https://www.gesetze-im-internet.de/estg/__37.html",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "12-01",
+    "monat": "12",
+    "titel": "KSK: Einkommensschätzung für das folgende Kalenderjahr melden — auch wenn sich nichts geändert hat",
+    "wer": "Künstlersozialkasse, §12 Abs. 1 Satz 1 KSVG",
+    "grundlage": "§12 Abs. 1 Satz 1 KSVG",
+    "quelle": "https://www.gesetze-im-internet.de/ksvg/__12.html",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "12-01",
+    "monat": "12",
+    "titel": "KSK: Falls Sie in der Stichprobe sind: Antwort auf das Prüfungsschreiben, innerhalb von vier Wochen nach Zugang, spätestens bis zum 1. Dezember",
+    "wer": "Künstlersozialkasse, §13 KSVG",
+    "grundlage": "§13 KSVG; Bundesportal: Prüfung der Meldungen von Versicherten",
+    "quelle": "https://www.verwaltung.bund.de/leistungsverzeichnis/de/leistung/99107077029003",
+    "stand": "2026-09-28"
+  },
+  {
+    "termin": "12-10",
+    "monat": "12",
+    "titel": "Einkommensteuer-Vorauszahlung (10. Dezember), in der Höhe des Vorauszahlungsbescheids",
+    "wer": "Finanzamt, §37 Abs. 1 EStG",
+    "grundlage": "§37 Abs. 1 Satz 1 EStG",
+    "quelle": "https://www.gesetze-im-internet.de/estg/__37.html",
+    "stand": "2026-09-28"
+  }
+]

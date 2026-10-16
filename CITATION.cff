@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "KSK-Beitragssätze und KSK-Fristen — offene Daten zur Künstlersozialkasse"
+type: dataset
+authors:
+  - name: "Künstlerfinanzen"
+    website: "https://kuenstlerfinanzen.de/"
+license: CC-BY-4.0
+repository-code: "https://github.com/tony158/kuenstlerfinanzen-open-data"
+url: "https://kuenstlerfinanzen.de/entwickler.html"
+date-released: 2026-10-16
+version: "2026-10-16"
+keywords:
+  - Künstlersozialkasse
+  - KSK
+  - Künstlersozialversicherung
+  - Beitragssatz
+  - Fristen
+  - Meldeschluss
+  - VG Wort
+  - VG Bild-Kunst
+  - Germany
+  - open data
+abstract: "Contribution rates of the German Künstlersozialversicherung per year (full rates and the insured person's share) and the fixed reporting dates of the year for KSK members (1 December income report, audit reply, VG Wort, VG Bild-Kunst, income-tax prepayments), each row with its primary source and check date."

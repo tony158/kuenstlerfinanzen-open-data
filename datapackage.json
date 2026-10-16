@@ -1,0 +1,165 @@
+{
+  "name": "kuenstlerfinanzen-open-data",
+  "title": "KSK-Beitragssätze und KSK-Fristen — offene Daten zur Künstlersozialkasse",
+  "description": "Contribution rates of the Künstlersozialversicherung per year and the fixed reporting dates of the year for KSK members, each row with its primary source and check date.",
+  "homepage": "https://kuenstlerfinanzen.de/entwickler.html",
+  "version": "2026-10-16",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Künstlersozialkasse: Beitrag",
+      "path": "https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/beitrag"
+    },
+    {
+      "title": "KSVG (gesetze-im-internet.de)",
+      "path": "https://www.gesetze-im-internet.de/ksvg/"
+    },
+    {
+      "title": "VG Wort: Termine und Fristen",
+      "path": "https://www.vgwort.de/service/informationen/termine-und-fristen"
+    },
+    {
+      "title": "VG Bild-Kunst: Neuer Meldeschluss",
+      "path": "https://www.bildkunst.de/meldung/neuer_meldeschluss/"
+    },
+    {
+      "title": "§37 EStG",
+      "path": "https://www.gesetze-im-internet.de/estg/__37.html"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Künstlerfinanzen",
+      "path": "https://kuenstlerfinanzen.de/",
+      "role": "publisher"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ksk-beitragssaetze",
+      "path": "data/ksk-beitragssaetze.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "jahr",
+            "type": "year"
+          },
+          {
+            "name": "rente_prozent",
+            "type": "number"
+          },
+          {
+            "name": "kranken_prozent",
+            "type": "number"
+          },
+          {
+            "name": "pflege_prozent",
+            "type": "number"
+          },
+          {
+            "name": "pflege_kinderlos_prozent",
+            "type": "number"
+          },
+          {
+            "name": "rente_versicherte_prozent",
+            "type": "number"
+          },
+          {
+            "name": "kranken_versicherte_prozent",
+            "type": "number"
+          },
+          {
+            "name": "pflege_versicherte_prozent",
+            "type": "number"
+          },
+          {
+            "name": "pflege_kinderlos_versicherte_prozent",
+            "type": "number"
+          },
+          {
+            "name": "status",
+            "type": "string"
+          },
+          {
+            "name": "stand",
+            "type": "date"
+          },
+          {
+            "name": "quelle",
+            "type": "string"
+          },
+          {
+            "name": "quelle_url",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ksk-fristen",
+      "path": "data/ksk-fristen.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ";",
+        "header": true
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "termin",
+            "type": "string"
+          },
+          {
+            "name": "monat",
+            "type": "string"
+          },
+          {
+            "name": "nur_monat",
+            "type": "string"
+          },
+          {
+            "name": "titel",
+            "type": "string"
+          },
+          {
+            "name": "wer",
+            "type": "string"
+          },
+          {
+            "name": "grundlage",
+            "type": "string"
+          },
+          {
+            "name": "quelle",
+            "type": "string"
+          },
+          {
+            "name": "stand",
+            "type": "date"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ksk-fristen-ics",
+      "path": "data/ksk-fristen.ics",
+      "format": "ics",
+      "mediatype": "text/calendar"
+    }
+  ]
+}
