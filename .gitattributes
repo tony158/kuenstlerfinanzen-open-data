@@ -1,0 +1,2 @@
+# The calendar feed is RFC 5545: CRLF line endings are part of the format.
+data/ksk-fristen.ics -text
